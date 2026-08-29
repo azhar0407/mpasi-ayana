@@ -1,0 +1,17 @@
+{
+  "name": "MPASI Ayana",
+  "short_name": "MPASI Ayana",
+  "description": "Resep dan jadwal MPASI untuk Ayana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff1f2",
+  "theme_color": "#f43f5e",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
